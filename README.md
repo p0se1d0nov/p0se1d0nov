@@ -2,6 +2,9 @@
 I'm Andrew - I'm student, backend developer. Developing my skills in backend development, design, game development, full stack, ML, AI and other directions. Building my pet projects at free time there.
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,qt,cmake,git,docker,html,css,py,js)](https://skillicons.dev)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **p0se1d0nov/p0se1d0nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
