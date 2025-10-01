@@ -15,7 +15,7 @@ Hi there 👋<br>I'm Andrew - I'm student, backend developer. Developing my skil
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=p0se1d0nov&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
