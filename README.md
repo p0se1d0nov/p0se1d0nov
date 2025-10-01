@@ -4,7 +4,7 @@ I'm Andrew - I'm student, backend developer. Developing my skills in backend dev
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,qt,cmake,git,docker,html,css,py,js)](https://skillicons.dev)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![p0se1d0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0se1d0n&show_icons=true&theme=synthwave)
 <!--
 **p0se1d0nov/p0se1d0nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
