@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Andrew - I'm student, backend developer. Developing my skills in backend development, design, game development, full stack, ML, AI and other directions. Building my pet projects at free time there.
 
-[![My Skills](https://skillicons.dev/icons?i=git,cs,dotnet,c,cpp,qt,cmake,git,docker,html,css,py,django,figma,js,mongodb,nodejs,react,ts,obsidian,redhat,sqlite&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,cpp,qt,cmake,git,docker,html,css,py,js)](https://skillicons.dev)
 <!--
 **p0se1d0nov/p0se1d0nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
